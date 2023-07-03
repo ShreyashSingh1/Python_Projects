@@ -8,6 +8,7 @@ When problem is complex break it down into parts here we are dividing this game 
 6. Detect collision with paddle
 7. Detect when paddle is misses
 8. Keep Score
+My name is Shreyash
 """
 
 from turtle import Screen
